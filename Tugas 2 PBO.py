@@ -28,7 +28,6 @@ class Jurusan:
         for mahasiswa in self.daftar_mahasiswa:
             print("Nama: ", mahasiswa.nama)
             print("NIM: ", mahasiswa.nim)
-            print("Jurusan: ", mahasiswa.jurusan.nama_jurusan)
             print("-----------------------")
 
 # Kode diatas adalah kode yang untuk membuat class jurusan beserta atributnya, atributnya ada nama jurusan, dan daftar mahasiswa
